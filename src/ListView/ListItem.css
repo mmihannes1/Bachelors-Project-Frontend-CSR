@@ -1,0 +1,33 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  /*border-bottom: 1px solid #630000;*/
+}
+
+.person-name {
+  /* Styles for person name */
+  font-size: 15px;
+}
+
+.start-time {
+  /* Styles for start time */
+}
+
+.end-time {
+  /* Styles for end time */
+}
+
+.expenditure {
+  /* Styles for expenditure */
+}
+.btntext {
+  /* Styles for button text */
+
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
